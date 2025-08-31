@@ -37,4 +37,5 @@ secrets.yaml
 config/credentials.yml
 
 # Personal and config files
+examen.ipynb
 *.pdf
