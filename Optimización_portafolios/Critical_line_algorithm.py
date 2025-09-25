@@ -8,7 +8,6 @@ Contiene:
 - Optimizador estilo CLA (conjunto activo) para Markowitz con cotas l ≤ w ≤ u.
 - Funciones de utilidad y un demo reproducible.
 
-Autor: ChatGPT
 """
 
 import numpy as np
